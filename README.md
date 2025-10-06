@@ -79,9 +79,27 @@ Each numbered file is a self-contained guide covering one Python topic, written 
 ---
 
 ## 🔧 Future Plans
-- Add completed sections 021–044 progressively with peer review.  
-- Introduce automated testing for all code samples.  
-- Provide a script index and runnable snippets in a `scripts/` directory.  
+- Add automated testing for all code samples (pytest) and run them in CI.
+- Provide a script index and runnable snippets in a `scripts/` directory.
+- Cross‑link related guides and add a searchable index.
+
+---
+
+## 📝 Prompt Template for Adding or Updating Guides
+
+Use this prompt to create or revise any single guide while preserving the style rules in `000_STRUCTURE.md` and using `002_SETUP.md` for reference.
+
+```text
+!!IMPORTANT!! ONLY update <TARGET_FILENAME>! 000_STRUCTURE.md is to be treated as instructions. 002_SETUP.md can be used as additional reference:
+
+<TARGET_FILENAME> overview - <one-line purpose of the guide>
+```
+
+**How to use**
+- Replace `<TARGET_FILENAME>` with the exact Markdown filename, e.g., `045_EXAMPLE_TOPIC.md`.
+- Replace the overview line with a concise, single‑sentence description of the guide’s scope and goals.
+- Keep the rest of the repository unchanged. The assistant should only modify the specified file.
+- Follow the layout, tone, and numbering rules from `000_STRUCTURE.md`.
 
 ---
 

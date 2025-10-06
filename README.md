@@ -41,30 +41,30 @@ Each numbered file is a self-contained guide covering one Python topic, written 
 | 018_NETWORKING.md | Networking basics, sockets, ping, and diagnostics | ✅ |
 | 019_SSH_AUTOMATION.md | Remote SSH/SFTP automation with Paramiko/Fabric | ✅ |
 | 020_API_AUTOMATION.md | REST API scripting, pagination, and rate-limits | ✅ |
-| 021_JSON_YAML_TOML.md | Working with config file formats (JSON/YAML/TOML) | ❌ |
-| 022_AZURE_AUTOMATION.md | Azure resource management with Python SDK | ❌ |
-| 023_AWS_AUTOMATION.md | AWS automation using boto3 | ❌ |
-| 024_SHELL_INTERACTION.md | Shell/Python interoperability and scripting | ❌ |
-| 025_MONITORING_SCRIPTS.md | Health checks and alert scripts | ❌ |
-| 026_TASK_SCHEDULING.md | Task scheduling (schedule, cron, APScheduler) | ❌ |
-| 027_TEXT_PARSING.md | Regex, log parsing, and text analysis | ❌ |
-| 028_PDF_DOC_AUTOMATION.md | Automating PDF manipulation | ❌ |
-| 029_DATA_CLEANUP.md | Cleaning and validating structured data | ❌ |
-| 030_BACKUP_SCRIPTS.md | Backup automation and verification | ❌ |
-| 031_NOTIFICATION_AUTOMATION.md | Slack, Teams, and webhook notifications | ❌ |
-| 032_BROWSER_AUTOMATION.md | Browser automation with Playwright/Selenium | ❌ |
-| 033_KEYCHAIN_SECRETS.md | Secure credential handling | ❌ |
-| 034_FILE_UPLOAD_DOWNLOAD.md | File transfers (HTTP, SFTP, Cloud) | ❌ |
-| 035_SCRIPT_PACKAGING.md | Packaging Python tools and CLIs | ❌ |
-| 036_DOCKER_AUTOMATION.md | Managing Docker via Python SDK | ❌ |
-| 037_GIT_AUTOMATION.md | Git automation with GitPython | ❌ |
-| 038_UNITTEST_AUTOMATION.md | Testing and CI integration | ❌ |
-| 039_SYSTEM_INFO.md | Gathering system metrics (CPU, memory, disk) | ❌ |
-| 040_PERSONAL_AUTOMATION.md | Personal/macOS automation utilities | ❌ |
-| 041_EMAIL_REPORTING.md | Automated report generation and email | ❌ |
-| 042_AI_AUTOMATION.md | Using AI/LLM APIs for automation and parsing | ❌ |
-| 043_EVENT_LOG_PARSING.md | Parsing system and application event logs | ❌ |
-| 044_NETWORK_INVENTORY.md | Scanning and inventorying network devices | ❌ |
+| 021_JSON_YAML_TOML.md | Working with config file formats (JSON/YAML/TOML) | ✅ |
+| 022_AZURE_AUTOMATION.md | Azure resource management with Python SDK | ✅ |
+| 023_AWS_AUTOMATION.md | AWS automation using boto3 | ✅ |
+| 024_SHELL_INTERACTION.md | Shell/Python interoperability and scripting | ✅ |
+| 025_MONITORING_SCRIPTS.md | Health checks and alert scripts | ✅ |
+| 026_TASK_SCHEDULING.md | Task scheduling (schedule, cron, APScheduler) | ✅ |
+| 027_TEXT_PARSING.md | Regex, log parsing, and text analysis | ✅ |
+| 028_PDF_DOC_AUTOMATION.md | Automating PDF manipulation | ✅ |
+| 029_DATA_CLEANUP.md | Cleaning and validating structured data | ✅ |
+| 030_BACKUP_SCRIPTS.md | Backup automation and verification | ✅ |
+| 031_NOTIFICATION_AUTOMATION.md | Slack, Teams, and webhook notifications | ✅ |
+| 032_BROWSER_AUTOMATION.md | Browser automation with Playwright/Selenium | ✅ |
+| 033_KEYCHAIN_SECRETS.md | Secure credential handling | ✅ |
+| 034_FILE_UPLOAD_DOWNLOAD.md | File transfers (HTTP, SFTP, Cloud) | ✅ |
+| 035_SCRIPT_PACKAGING.md | Packaging Python tools and CLIs | ✅ |
+| 036_DOCKER_AUTOMATION.md | Managing Docker via Python SDK | ✅ |
+| 037_GIT_AUTOMATION.md | Git automation with GitPython | ✅ |
+| 038_UNITTEST_AUTOMATION.md | Testing and CI integration | ✅ |
+| 039_SYSTEM_INFO.md | Gathering system metrics (CPU, memory, disk) | ✅ |
+| 040_PERSONAL_AUTOMATION.md | Personal/macOS automation utilities | ✅ |
+| 041_EMAIL_REPORTING.md | Automated report generation and email | ✅ |
+| 042_AI_AUTOMATION.md | Using AI/LLM APIs for automation and parsing | ✅ |
+| 043_EVENT_LOG_PARSING.md | Parsing system and application event logs | ✅ |
+| 044_NETWORK_INVENTORY.md | Scanning and inventorying network devices | ✅ |
 
 ✅ = Complete | ❌ = In Progress / Planned
 
